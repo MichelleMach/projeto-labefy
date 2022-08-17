@@ -6,7 +6,6 @@ export const ScreenContainer= styled.section`
     justify-content: center;
     gap: 20px;
     align-items: center;
-    background-color: white;
     height: 100vh;
 
 `
